@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://erp-product-app.vercel.app" target="_blank">Live Demo</a> •
+  <a href="https://erp-product-app.vercel.app" target="_blank">erp-product-app.vercel.app</a> •
   <a href="https://github.com/ahmedmubarak2010/ERP-Product-App">Source Code</a>
 </p>
 
