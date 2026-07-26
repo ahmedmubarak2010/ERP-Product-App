@@ -84,5 +84,3 @@ The project focuses on practicing JavaScript logic, DOM manipulation, and buildi
 ## Author
 
 **Ahmed Mubarak**
-
-Frontend Developer | JavaScript Developer
