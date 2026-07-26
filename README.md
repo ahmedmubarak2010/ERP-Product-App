@@ -63,25 +63,22 @@ The project focuses on practicing JavaScript logic, DOM manipulation, and buildi
 ## Contact Me
 
 <p align="center">
+  <a href="https://github.com/ahmedmubarak2010">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="45">
+  </a>
 
-<a href="https://github.com/ahmedmubarak2010">
-<img src="https://cdn.simpleicons.org/github/ffffff" width="40">
-</a>
+  <a href="https://www.linkedin.com/in/ahmed-mubarak-8564aa303">
+    <img src="https://img.icons8.com/color/50/linkedin.png" width="45">
+  </a>
 
-<a href="https://www.linkedin.com/in/ahmed-mubarak-8564aa303">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40">
-</a>
+  <a href="mailto:mubarakxahmed2010@gmail.com">
+    <img src="https://img.icons8.com/color/50/gmail-new.png" width="45">
+  </a>
 
-<a href="mailto:mubarakxahmed2010@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40">
-</a>
-
-<a href="https://wa.me/message/45YZ4FUMDMEJN1">
-<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40">
-</a>
-
+  <a href="https://wa.me/message/45YZ4FUMDMEJN1">
+    <img src="https://img.icons8.com/color/50/whatsapp.png" width="45">
+  </a>
 </p>
-
 ---
 
 ## Author
