@@ -1,15 +1,11 @@
 # ERP Product App
 
 <p align="center">
-  <img src="Screenshot.png" alt="ERP Product App" width="900">
-</p>
-
-<p align="center">
   A modern Product Management System that helps users manage products efficiently with a clean and responsive interface.
 </p>
 
 <p align="center">
-  <a href="https://erp-product-app.vercel.app" target="_blank">Live Demo</a> •
+  <a href="https://erp-product-app.vercel.app" target="_blank">erp-product-app.vercel.app</a> •
   <a href="https://github.com/ahmedmubarak2010/ERP-Product-App">Source Code</a>
 </p>
 
