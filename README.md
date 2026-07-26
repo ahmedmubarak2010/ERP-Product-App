@@ -24,7 +24,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/ahmed-mubarak-8564aa303">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40">
+<img src="https://i.pinimg.com/736x/8a/15/b6/8a15b646a6856d20854c2ac22623d971.jpg" width="40">
 </a>
 
 <a href="mailto:mubarakxahmed2010@gmail.com">
