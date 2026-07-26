@@ -1,7 +1,7 @@
 # ERP Product App
 
 <p align="center">
-  <img src="img.png" alt="ERP Product App" width="900">
+  <img src="Screenshot.png" alt="ERP Product App" width="900">
 </p>
 
 <p align="center">
@@ -33,18 +33,6 @@
 
 <a href="https://wa.me/message/45YZ4FUMDMEJN1">
 <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40">
-</a>
-
-<a href="https://t.me/USERNAME">
-<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40">
-</a>
-
-<a href="https://www.facebook.com/USERNAME">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" width="40">
-</a>
-
-<a href="https://www.instagram.com/USERNAME">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="40">
 </a>
 
 </p>
