@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ERP Product App</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+<header>
+<h1>ERP Product App</h1>
+</header>
+
+<div class="form">
+
+<input type="text" id="title" placeholder="Product Title">
+
+<div class="row">
+<input type="number" id="price" placeholder="Price">
+<input type="number" id="quantity" placeholder="Quantity">
+</div>
+
+<div class="row">
+
+<input type="text" id="category" placeholder="Category">
+
+<select id="categoryColor">
+<option value="#3b82f6">Blue</option>
+<option value="#22c55e">Green</option>
+<option value="#f59e0b">Orange</option>
+<option value="#ef4444">Red</option>
+<option value="#a855f7">Purple</option>
+<option value="#64748b">Gray</option>
+<option value="#06b6d4">Cyan</option>
+<option value="#ec4899">Pink</option>
+</select>
+
+</div>
+
+<textarea id="description" placeholder="Description"></textarea>
+
+<button id="mainBtn">Add Product</button>
+
+<div id="message"></div>
+
+</div>
+
+<div class="statistics">
+
+<div class="stat-card">
+<h2 id="productsCount">0</h2>
+<p>Products</p>
+</div>
+
+<div class="stat-card">
+<h2 id="totalQuantity">0</h2>
+<p>Quantity</p>
+</div>
+
+<div class="stat-card">
+<h2 id="inventoryValue">0 EGP</h2>
+<p>Inventory Value</p>
+</div>
+
+<div class="stat-card">
+<h2 id="topCategory">-</h2>
+<p>Top Category</p>
+</div>
+
+<div class="stat-card">
+<h2 id="averagePrice">0 EGP</h2>
+<p>Average Price</p>
+</div>
+
+<div class="stat-card">
+<h2 id="highestPrice">-</h2>
+<p>Highest Price</p>
+</div>
+
+</div>
+
+<div class="tools">
+
+<input type="search" id="search" placeholder="Search">
+
+<select id="categoryFilter">
+<option value="all">All Categories</option>
+</select>
+
+<select id="sort">
+<option value="newest">Newest</option>
+<option value="oldest">Oldest</option>
+<option value="priceAsc">Price ↑</option>
+<option value="priceDesc">Price ↓</option>
+<option value="quantityAsc">Quantity ↑</option>
+<option value="quantityDesc">Quantity ↓</option>
+<option value="az">A - Z</option>
+<option value="za">Z - A</option>
+</select>
+
+</div>
+
+<div id="emptyState">
+<h2>No Products Found</h2>
+<p>Add your first product.</p>
+</div>
+
+<div id="products"></div>
+
+<div id="deleteModal">
+
+<div class="modal">
+
+<h3>Delete Product?</h3>
+
+<p>This action cannot be undone.</p>
+
+<div class="buttons">
+<button id="cancelDelete">Cancel</button>
+<button id="confirmDelete">Delete</button>
+</div>
+
+</div>
+
+</div>
+
+<footer>
+
+<h2>Ahmed Mubarak</h2>
+
+<p class="subtitle">𓂀 Pharaoh of the Digital Age</p>
+<div class="footer-line"></div>
+
+<div class="social">
+
+<a href="https://github.com/ahmedmubarak2010" target="_blank" id="github">
+<i class="fa-brands fa-github"></i>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmed-mubarak-8564aa303" target="_blank" id="linkedin">
+<i class="fa-brands fa-linkedin"></i>
+</a>
+
+<a href="mailto:mubarakxahmed2010@gmail.com" target="_blank" id="email">
+<i class="fa-solid fa-envelope"></i>
+</a>
+
+<a href="https://wa.me/message/45YZ4FUMDMEJN1" target="_blank" id="phone">
+<i class="fa-brands fa-whatsapp"></i>
+</a>
+
+</div>
+
+<p class="copyright"> Ahmed Mubarak </p>
+</footer>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
